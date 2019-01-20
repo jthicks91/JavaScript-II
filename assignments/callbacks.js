@@ -67,7 +67,7 @@ contains("Gum", items, function(doesContain) {
   console.log(doesContain);
 });
 
-contains("Money", items, function(doesContain) {
+contains("Dog", items, function(doesContain) {
   console.log(doesContain);
 });
 
